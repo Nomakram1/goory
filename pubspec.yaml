@@ -1,0 +1,75 @@
+name: foodie
+description: Foodie is food delivery mobile application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  basic_utils: ^2.5.3
+  google_fonts: ^0.4.0
+  flutter_icons: ^1.0.0+1
+  location: ^3.0.0
+  intl: ^0.16.0
+  badges: ^1.1.1
+  flutter_swiper: ^1.1.6
+  rating_bar: ^0.2.0
+  cached_network_image: ^2.2.0+1
+  rxdart: ^0.24.1
+  lottie: ^0.4.0
+  smooth_page_indicator: ^0.1.5
+  flutter_staggered_animations: ^0.1.2
+  flutter_xlider: ^3.4.0
+  random_string: ^2.1.0
+  readmore: ^1.0.0
+  floor: ^0.13.0
+  edge_alert: ^0.0.1
+  dio_http_cache: ^0.2.7
+  dio: ^3.0.9
+  razorpay_flutter: ^1.1.4
+  paystack_manager: ^1.0.3
+  tellam: ^0.1.3
+
+  dartx: ^0.5.0
+  shimmer: ^1.1.1
+  google_map_location_picker: ^3.3.3
+  pull_to_refresh: ^1.6.1
+  firebase_core: ^0.4.0+9
+  # Add the dependency for the FlutterFire plugin for Google Analytics
+  firebase_analytics: ^5.0.2
+  firebase_storage: ^3.1.6
+  file_picker: ^1.12.0
+  flutter_local_notifications: ^1.4.4+2
+  firebase_messaging: ^6.0.16
+  random_color: ^1.0.5
+  flutter_custom_clippers: ^1.1.1
+  url_launcher: ^5.5.0
+  firebase_auth: ^0.16.1
+  google_sign_in: ^4.5.1
+  flutter_webview_plugin: ^0.3.10+1
+
+# dependency_overrides:
+#   flutter_svg: ^0.18.0
+#   # analyzer: "0.39.14"
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  floor_generator: ^0.13.0
+  build_runner: ^1.7.3
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/animations/lottie/
+

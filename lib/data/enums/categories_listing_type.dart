@@ -1,0 +1,1 @@
+enum CategoriesListingType { circularWithVendors, linearCards }

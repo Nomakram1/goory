@@ -1,0 +1,3 @@
+# removing non_constant_identifier_names error from generated files
+analyzer:
+  exclude: [lib/database/app_database.g.dart]

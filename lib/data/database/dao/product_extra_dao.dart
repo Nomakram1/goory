@@ -1,6 +1,6 @@
 import 'package:floor/floor.dart';
-import 'package:foodie/data/database/dao/abstract_dao.dart';
-import 'package:foodie/data/models/food_extra.dart';
+import 'package:Doory/data/database/dao/abstract_dao.dart';
+import 'package:Doory/data/models/food_extra.dart';
 
 @dao
 abstract class ProductExtraDao extends AbstractDao<ProductExtra> {

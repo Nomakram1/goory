@@ -1,6 +1,6 @@
 import 'package:floor/floor.dart';
-import 'package:foodie/data/database/dao/abstract_dao.dart';
-import 'package:foodie/data/models/notification_model.dart';
+import 'package:Doory/data/database/dao/abstract_dao.dart';
+import 'package:Doory/data/models/notification_model.dart';
 
 @dao
 abstract class NotificationDao extends AbstractDao<NotificationModel> {

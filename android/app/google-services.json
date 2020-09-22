@@ -1,42 +1,43 @@
 {
   "project_info": {
-    "project_number": "950175586797",
-    "firebase_url": "https://flutter-projects-5ec90.firebaseio.com",
-    "project_id": "flutter-projects-5ec90",
-    "storage_bucket": "flutter-projects-5ec90.appspot.com"
+    "project_number": "629116539302",
+    "firebase_url": "https://doory-289810.firebaseio.com",
+    "project_id": "doory-289810",
+    "storage_bucket": "doory-289810.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:950175586797:android:eafb386f6345cd8c2fefe4",
+        "mobilesdk_app_id": "1:629116539302:android:afe69ee9d3f922a189ff67",
         "android_client_info": {
-          "package_name": "com.example.foodie"
+          "package_name": "com.doory.mydoory"
         }
       },
       "oauth_client": [
         {
-          "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+          "client_id": "629116539302-9ga3iegpp4b149jd8cha524d720p6mqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doory.mydoory",
+            "certificate_hash": "86e0a1fe7ce746952e7943d117a51d59c6f26308"
+          }
+        },
+        {
+          "client_id": "629116539302-eme18u272g5v1vjhfcgktd9pl6s05kkv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD1xsylITMwNWQbbfE5jhftGUmE_LwlyDk"
+          "current_key": "AIzaSyBWOL35CBo8G91GDc2Llc2onEPfL6WWAqw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "950175586797-kbgbvi7ne2m2r845kj9mfbnms55915ep.apps.googleusercontent.com",
+              "client_id": "629116539302-eme18u272g5v1vjhfcgktd9pl6s05kkv.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "950175586797-iqfn12s79sbcan5jttd28k4uu59aijvi.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.foodie"
-              }
             }
           ]
         }

@@ -3,10 +3,10 @@ import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/utils/dialog_type_animation.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/utils/dialog_type_animation.dart';
 import 'package:lottie/lottie.dart';
 
 class CustomDialog {

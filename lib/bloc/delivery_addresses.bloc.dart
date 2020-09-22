@@ -1,8 +1,8 @@
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/data/models/deliver_address.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/data/repositories/delivery_address.repository.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/data/models/deliver_address.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/data/repositories/delivery_address.repository.dart';
 import 'package:rxdart/rxdart.dart';
 
 class DeliveryAddressBloc extends BaseBloc {

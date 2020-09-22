@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/services/firebase_messaging.dart';
-import 'package:foodie/utils/router.dart' as router;
-import 'package:foodie/views/auth/onboarding_page.dart';
-import 'package:foodie/views/home_page.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/services/firebase_messaging.dart';
+import 'package:Doory/utils/router.dart' as router;
+import 'package:Doory/views/auth/onboarding_page.dart';
+import 'package:Doory/views/home_page.dart';
 import 'package:tellam/tellam.dart';
 
 void main() async {

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/views/cart_page.dart';
-import 'package:foodie/views/home/grid_categories_page.dart';
-import 'package:foodie/views/orders_page.dart';
-import 'package:foodie/views/profile/profile_page.dart';
-// import 'package:foodie/views/vendors_page.dart';
-import 'package:foodie/widgets/appbar/empty_appbar.dart';
-import 'package:foodie/widgets/custom_bottom_navigation_appbar.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/views/cart_page.dart';
+import 'package:Doory/views/home/grid_categories_page.dart';
+import 'package:Doory/views/orders_page.dart';
+import 'package:Doory/views/profile/profile_page.dart';
+// import 'package:Doory/views/vendors_page.dart';
+import 'package:Doory/widgets/appbar/empty_appbar.dart';
+import 'package:Doory/widgets/custom_bottom_navigation_appbar.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);

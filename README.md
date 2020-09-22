@@ -1,6 +1,6 @@
-# foodie
+# Doory
 
-Foodie is online food delivery app built with flutter. Fully supports Android and iOS.
+Doory is online food delivery app built with flutter. Fully supports Android and iOS.
 
 ## Getting Started
 
@@ -20,12 +20,12 @@ Setup an editor: [documentation](https://flutter.dev/docs/get-started/editor).
 ## Installation
 
 
-To setup Foodie Theme on your system, and sync your app with constant updates, clone the repo.
+To setup Doory Theme on your system, and sync your app with constant updates, clone the repo.
 
 ```bash
 
-    $ git clone projectUrl foodie
-    $ cd foodie/
+    $ git clone projectUrl Doory
+    $ cd Doory/
     $ flutter packages get
     $ flutter run
 

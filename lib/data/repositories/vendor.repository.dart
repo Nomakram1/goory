@@ -1,9 +1,9 @@
-import 'package:foodie/constants/api.dart';
-import 'package:foodie/data/models/api_response.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/services/http.service.dart';
-import 'package:foodie/utils/api_response.utils.dart';
+import 'package:Doory/constants/api.dart';
+import 'package:Doory/data/models/api_response.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/services/http.service.dart';
+import 'package:Doory/utils/api_response.utils.dart';
 
 enum VendorListType {
   all,

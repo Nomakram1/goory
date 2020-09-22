@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/bloc/profile.bloc.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/strings/profile/profile.strings.dart';
-import 'package:foodie/widgets/menu/menu_item.dart';
-import 'package:foodie/widgets/profile/user_profile_card.dart';
+import 'package:Doory/bloc/profile.bloc.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/strings/profile/profile.strings.dart';
+import 'package:Doory/widgets/menu/menu_item.dart';
+import 'package:Doory/widgets/profile/user_profile_card.dart';
 import 'package:tellam/tellam.dart';
 
 class ProfilePage extends StatefulWidget {

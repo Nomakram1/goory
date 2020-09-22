@@ -1,5 +1,5 @@
-import 'package:foodie/data/models/menu.dart';
-import 'package:foodie/sample_data/products.dart';
+import 'package:Doory/data/models/menu.dart';
+import 'package:Doory/sample_data/products.dart';
 
 class Menus {
   //all sample menus

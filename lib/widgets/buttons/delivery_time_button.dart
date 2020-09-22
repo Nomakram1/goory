@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
 
 class DeliveryTimeButton extends StatefulWidget {
   DeliveryTimeButton({

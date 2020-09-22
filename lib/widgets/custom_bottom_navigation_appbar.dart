@@ -1,10 +1,10 @@
 import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/strings/bottom_nav_bar.strings.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/data/models/product.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/strings/bottom_nav_bar.strings.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/data/models/product.dart';
 
 class CustomBottomNavigationAppBar extends BottomNavigationBar {
   CustomBottomNavigationAppBar({

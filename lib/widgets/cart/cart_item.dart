@@ -1,17 +1,17 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/cart.strings.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/food_extra.dart';
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/buttons/outline_custom_button.dart';
-import 'package:foodie/widgets/cornered_container.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/cart.strings.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/food_extra.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/buttons/outline_custom_button.dart';
+import 'package:Doory/widgets/cornered_container.dart';
 
 class CartItem extends StatefulWidget {
   CartItem({

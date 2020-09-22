@@ -1,21 +1,21 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/bloc/edit_profile.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/general.strings.dart';
-import 'package:foodie/constants/strings/profile/update.strings.dart';
-import 'package:foodie/data/models/user.dart';
-import 'package:foodie/utils/custom_dialog.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/appbar/leading_app_bar.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/inputs/custom_text_form_field.dart';
-import 'package:foodie/widgets/platform/platform_circular_progress_indicator.dart';
-import 'package:foodie/widgets/profile/user_profile_photo.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/bloc/edit_profile.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/general.strings.dart';
+import 'package:Doory/constants/strings/profile/update.strings.dart';
+import 'package:Doory/data/models/user.dart';
+import 'package:Doory/utils/custom_dialog.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/appbar/leading_app_bar.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/inputs/custom_text_form_field.dart';
+import 'package:Doory/widgets/platform/platform_circular_progress_indicator.dart';
+import 'package:Doory/widgets/profile/user_profile_photo.dart';
 
 class EditProfilePage extends StatefulWidget {
   EditProfilePage({Key key}) : super(key: key);

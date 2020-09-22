@@ -1,6 +1,6 @@
 import 'package:floor/floor.dart';
-import 'package:foodie/data/database/dao/abstract_dao.dart';
-import 'package:foodie/data/models/vendor.dart';
+import 'package:Doory/data/database/dao/abstract_dao.dart';
+import 'package:Doory/data/models/vendor.dart';
 
 @dao
 abstract class VendorDao extends AbstractDao<Vendor> {

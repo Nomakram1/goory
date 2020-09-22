@@ -1,8 +1,9 @@
 class Api {
   // static const baseUrl = "http://192.168.8.145:8000/api";
   // static const baseUrl = "http://192.168.43.32:8000/api";
-  static const baseUrl = "https://food.thesnaptask.com/api";
-
+  //static const baseUrl = "https://food.thesnaptask.com/api";
+  static const baseUrl = "http://mydoory.com/api";
+  
   static const login = "/login";
   static const loginSocial = "/login/social";
   static const register = "/register";

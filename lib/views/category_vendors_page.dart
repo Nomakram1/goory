@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/search_vendors.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/category.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/widgets/appbar/empty_appbar.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/empty/empty_vendor_list.dart';
-import 'package:foodie/widgets/vendors/grouped_vendors_listview.dart';
+import 'package:Doory/bloc/search_vendors.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/category.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/widgets/appbar/empty_appbar.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/empty/empty_vendor_list.dart';
+import 'package:Doory/widgets/vendors/grouped_vendors_listview.dart';
 
 class CategoryVendorsPage extends StatefulWidget {
   CategoryVendorsPage({

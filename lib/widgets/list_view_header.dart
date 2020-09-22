@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/utils/ui_spacer.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/utils/ui_spacer.dart';
 
 class ListViewHeader extends StatelessWidget {
   const ListViewHeader({

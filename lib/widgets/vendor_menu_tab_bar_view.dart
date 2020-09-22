@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/data/models/menu.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/widgets/product_list_view_item.dart';
+import 'package:Doory/data/models/menu.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/widgets/product_list_view_item.dart';
 
 class VendorMenuTabBarView extends StatefulWidget {
   VendorMenuTabBarView({

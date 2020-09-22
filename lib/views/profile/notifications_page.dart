@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/notification.bloc.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/profile/notification.strings.dart';
-import 'package:foodie/data/models/notification_model.dart';
-import 'package:foodie/utils/custom_dialog.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/appbar/leading_app_bar.dart';
-import 'package:foodie/widgets/empty/empty_notifications.dart';
-import 'package:foodie/widgets/notification/notification_details.dart';
-import 'package:foodie/widgets/notification/notification_list_view_item.dart';
-import 'package:foodie/widgets/shimmers/general_shimmer_list_view_item.dart';
+import 'package:Doory/bloc/notification.bloc.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/profile/notification.strings.dart';
+import 'package:Doory/data/models/notification_model.dart';
+import 'package:Doory/utils/custom_dialog.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/appbar/leading_app_bar.dart';
+import 'package:Doory/widgets/empty/empty_notifications.dart';
+import 'package:Doory/widgets/notification/notification_details.dart';
+import 'package:Doory/widgets/notification/notification_list_view_item.dart';
+import 'package:Doory/widgets/shimmers/general_shimmer_list_view_item.dart';
 
 class NotificationsPage extends StatefulWidget {
   NotificationsPage({Key key}) : super(key: key);

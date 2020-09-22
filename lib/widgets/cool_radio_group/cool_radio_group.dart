@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/widgets/cool_radio_group/cool_radio_group_builder.dart';
+import 'package:Doory/widgets/cool_radio_group/cool_radio_group_builder.dart';
 
 class CoolRadioGroup<T> extends StatelessWidget {
   const CoolRadioGroup.builder({

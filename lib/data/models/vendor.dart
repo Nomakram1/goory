@@ -1,8 +1,8 @@
 import 'package:floor/floor.dart';
 import 'package:flutter/foundation.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/menu.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/menu.dart';
 
 @Entity(
   tableName: "vendors",

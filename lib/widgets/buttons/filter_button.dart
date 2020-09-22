@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
 
 class FilterButton extends StatefulWidget {
   const FilterButton({

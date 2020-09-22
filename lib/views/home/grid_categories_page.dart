@@ -1,15 +1,15 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/categories.bloc.dart';
-import 'package:foodie/bloc/vendors.bloc.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/home/categories.strings.dart';
-import 'package:foodie/data/models/category.dart';
-import 'package:foodie/widgets/appbar/home_appbar.dart';
-import 'package:foodie/widgets/shimmers/general_shimmer_list_view_item.dart';
+import 'package:Doory/bloc/categories.bloc.dart';
+import 'package:Doory/bloc/vendors.bloc.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/home/categories.strings.dart';
+import 'package:Doory/data/models/category.dart';
+import 'package:Doory/widgets/appbar/home_appbar.dart';
+import 'package:Doory/widgets/shimmers/general_shimmer_list_view_item.dart';
 
 class GridCategoriesPage extends StatefulWidget {
   GridCategoriesPage({Key key}) : super(key: key);

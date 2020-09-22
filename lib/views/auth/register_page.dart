@@ -1,21 +1,21 @@
 import 'package:edge_alert/edge_alert.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/bloc/register.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_images.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/general.strings.dart';
-import 'package:foodie/constants/strings/register.strings.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/appbar/custom_leading_only_app_bar.dart';
-import 'package:foodie/widgets/appbar/empty_appbar.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/inputs/custom_text_form_field.dart';
-import 'package:foodie/widgets/platform/platform_circular_progress_indicator.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/bloc/register.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_images.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/general.strings.dart';
+import 'package:Doory/constants/strings/register.strings.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/appbar/custom_leading_only_app_bar.dart';
+import 'package:Doory/widgets/appbar/empty_appbar.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/inputs/custom_text_form_field.dart';
+import 'package:Doory/widgets/platform/platform_circular_progress_indicator.dart';
 
 class RegisterPage extends StatefulWidget {
   RegisterPage({Key key}) : super(key: key);

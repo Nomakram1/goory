@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
 
 class CustomOutlineButton extends StatefulWidget {
   CustomOutlineButton({

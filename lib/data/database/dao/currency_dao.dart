@@ -1,6 +1,6 @@
 import 'package:floor/floor.dart';
-import 'package:foodie/data/database/dao/abstract_dao.dart';
-import 'package:foodie/data/models/currency.dart';
+import 'package:Doory/data/database/dao/abstract_dao.dart';
+import 'package:Doory/data/models/currency.dart';
 
 @dao
 abstract class CurrencyDao extends AbstractDao<Currency> {

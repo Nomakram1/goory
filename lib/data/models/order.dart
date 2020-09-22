@@ -1,8 +1,8 @@
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/deliver_address.dart';
-import 'package:foodie/data/models/payment_option.dart';
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/data/models/vendor.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/deliver_address.dart';
+import 'package:Doory/data/models/payment_option.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/data/models/vendor.dart';
 import 'package:intl/intl.dart';
 
 class Order {

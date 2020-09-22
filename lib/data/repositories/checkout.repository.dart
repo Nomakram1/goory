@@ -1,13 +1,13 @@
-import 'package:foodie/constants/api.dart';
-import 'package:foodie/constants/strings/checkout.strings.dart';
-import 'package:foodie/data/models/api_response.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/data/models/deliver_address.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/payment_option.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/services/http.service.dart';
-import 'package:foodie/utils/api_response.utils.dart';
+import 'package:Doory/constants/api.dart';
+import 'package:Doory/constants/strings/checkout.strings.dart';
+import 'package:Doory/data/models/api_response.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/data/models/deliver_address.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/payment_option.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/services/http.service.dart';
+import 'package:Doory/utils/api_response.utils.dart';
 
 class CheckOutRepository extends HttpService {
   //get available payment methods/options

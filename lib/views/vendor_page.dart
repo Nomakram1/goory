@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/vendor.strings.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/widgets/appbar/persistent_header.dart';
-import 'package:foodie/widgets/headers/vendor_page_header.dart';
-import 'package:foodie/widgets/vendor_menu_tab_bar_view.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/vendor.strings.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/widgets/appbar/persistent_header.dart';
+import 'package:Doory/widgets/headers/vendor_page_header.dart';
+import 'package:Doory/widgets/vendor_menu_tab_bar_view.dart';
 
 class VendorPage extends StatefulWidget {
   VendorPage({

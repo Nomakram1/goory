@@ -1,6 +1,6 @@
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/utils/custom_dialog.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/utils/custom_dialog.dart';
 import 'package:rxdart/rxdart.dart';
 
 enum UiState { idle, loading, done, error, redirect }

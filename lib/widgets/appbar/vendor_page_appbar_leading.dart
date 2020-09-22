@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
 
 class VendorPageAppBarLeading extends StatelessWidget {
   const VendorPageAppBarLeading({

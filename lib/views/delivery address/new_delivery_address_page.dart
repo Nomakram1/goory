@@ -1,19 +1,19 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/bloc/new_delivery_address.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/general.strings.dart';
-import 'package:foodie/constants/strings/profile/delivery_address.strings.dart';
-import 'package:foodie/constants/strings/profile/new_delivery_address.strings.dart';
-import 'package:foodie/utils/custom_dialog.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/appbar/leading_app_bar.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/buttons/outline_custom_button.dart';
-import 'package:foodie/widgets/inputs/custom_text_form_field.dart';
-import 'package:foodie/widgets/platform/platform_circular_progress_indicator.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/bloc/new_delivery_address.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/general.strings.dart';
+import 'package:Doory/constants/strings/profile/delivery_address.strings.dart';
+import 'package:Doory/constants/strings/profile/new_delivery_address.strings.dart';
+import 'package:Doory/utils/custom_dialog.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/appbar/leading_app_bar.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/buttons/outline_custom_button.dart';
+import 'package:Doory/widgets/inputs/custom_text_form_field.dart';
+import 'package:Doory/widgets/platform/platform_circular_progress_indicator.dart';
 import 'package:google_map_location_picker/google_map_location_picker.dart';
 
 class NewDeliveryAddressPage extends StatefulWidget {

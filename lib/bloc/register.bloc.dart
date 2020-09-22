@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/validation_messages.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/data/repositories/auth.repository.dart';
-import 'package:foodie/utils/validators.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/validation_messages.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/data/repositories/auth.repository.dart';
+import 'package:Doory/utils/validators.dart';
 import 'package:rxdart/rxdart.dart';
 
 class RegisterBloc extends BaseBloc {

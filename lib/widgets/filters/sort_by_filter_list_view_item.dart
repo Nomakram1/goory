@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/sort_by.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/sort_by.dart';
 
 class SortByListViewItem extends StatefulWidget {
   const SortByListViewItem({

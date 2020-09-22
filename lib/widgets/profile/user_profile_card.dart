@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/user.dart';
-import 'package:foodie/widgets/profile/user_profile_photo.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/user.dart';
+import 'package:Doory/widgets/profile/user_profile_photo.dart';
 
 class UserProfileCard extends StatelessWidget {
   const UserProfileCard({

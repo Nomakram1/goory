@@ -1,9 +1,9 @@
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/data/models/sort_by.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/data/repositories/vendor.repository.dart';
-import 'package:foodie/sample_data/vendor_filter_data.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/data/models/sort_by.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/data/repositories/vendor.repository.dart';
+import 'package:Doory/sample_data/vendor_filter_data.dart';
 import 'package:rxdart/subjects.dart';
 import 'package:dartx/dartx.dart';
 

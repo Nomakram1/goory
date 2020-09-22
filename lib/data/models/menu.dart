@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:foodie/data/models/product.dart';
+import 'package:Doory/data/models/product.dart';
 
 class Menu {
   int id;

@@ -1,8 +1,8 @@
-import 'package:foodie/constants/api.dart';
-import 'package:foodie/data/models/api_response.dart';
-import 'package:foodie/data/models/order.dart';
-import 'package:foodie/services/http.service.dart';
-import 'package:foodie/utils/api_response.utils.dart';
+import 'package:Doory/constants/api.dart';
+import 'package:Doory/data/models/api_response.dart';
+import 'package:Doory/data/models/order.dart';
+import 'package:Doory/services/http.service.dart';
+import 'package:Doory/utils/api_response.utils.dart';
 
 class OrderRepository extends HttpService {
   //get my orders from server

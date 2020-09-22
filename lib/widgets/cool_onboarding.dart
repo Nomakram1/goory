@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/onboarding_slide.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/onboarding_slide.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class CoolOnboarding extends StatefulWidget {

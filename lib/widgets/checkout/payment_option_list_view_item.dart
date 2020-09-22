@@ -1,10 +1,10 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/payment_option.dart';
-import 'package:foodie/utils/ui_spacer.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/payment_option.dart';
+import 'package:Doory/utils/ui_spacer.dart';
 
 class PaymentOptionListViewItem extends StatelessWidget {
   const PaymentOptionListViewItem({

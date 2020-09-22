@@ -1,4 +1,4 @@
-import 'package:foodie/data/models/dialog_data.dart';
+import 'package:Doory/data/models/dialog_data.dart';
 
 class DialogTypeAnimation {
   static String getType(DialogType dialogType) {

@@ -1,6 +1,6 @@
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/data/models/sort_by.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/data/models/sort_by.dart';
 
 enum VendorFilterType { rating, deliveryTime, deliveryFee, minimumOrder }
 

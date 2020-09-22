@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/widgets/inputs/custom_text_form_field.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/widgets/inputs/custom_text_form_field.dart';
 
 class SearchBar extends StatelessWidget {
   const SearchBar({

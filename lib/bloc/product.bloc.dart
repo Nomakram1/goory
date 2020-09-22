@@ -1,13 +1,13 @@
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/strings/general.strings.dart';
-import 'package:foodie/constants/strings/product.strings.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/data/models/food_extra.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/utils/price.utils.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/strings/general.strings.dart';
+import 'package:Doory/constants/strings/product.strings.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/data/models/food_extra.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/utils/price.utils.dart';
 import 'package:rxdart/rxdart.dart';
 
 class ProductBloc extends BaseBloc {

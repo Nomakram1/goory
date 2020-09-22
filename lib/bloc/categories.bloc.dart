@@ -1,6 +1,6 @@
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/data/models/category.dart';
-import 'package:foodie/data/repositories/categories.repository.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/data/models/category.dart';
+import 'package:Doory/data/repositories/categories.repository.dart';
 import 'package:rxdart/subjects.dart';
 
 class CategoriesBloc extends BaseBloc {

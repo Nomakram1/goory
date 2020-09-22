@@ -1,14 +1,14 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/cart.strings.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/utils/price.utils.dart';
-import 'package:foodie/widgets/cart/amount_tile.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/cart.strings.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/utils/price.utils.dart';
+import 'package:Doory/widgets/cart/amount_tile.dart';
 
 class TotalCartPrice extends StatefulWidget {
   TotalCartPrice({

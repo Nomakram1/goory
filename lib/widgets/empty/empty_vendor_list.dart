@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_images.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/search.strings.dart';
+import 'package:Doory/constants/app_images.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/search.strings.dart';
 
 class EmptyVendor extends StatelessWidget {
   const EmptyVendor({Key key}) : super(key: key);

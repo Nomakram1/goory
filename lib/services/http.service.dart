@@ -1,9 +1,9 @@
 import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:dio_http_cache/dio_http_cache.dart';
-import 'package:foodie/constants/api.dart';
-import 'package:foodie/data/database/app_database.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
+import 'package:Doory/constants/api.dart';
+import 'package:Doory/data/database/app_database.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
 
 class HttpService {
   String host = Api.baseUrl;

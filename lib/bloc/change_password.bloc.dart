@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/data/repositories/auth.repository.dart';
-import 'package:foodie/utils/validators.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/data/repositories/auth.repository.dart';
+import 'package:Doory/utils/validators.dart';
 import 'package:rxdart/rxdart.dart';
 
 class ChangePasswordBloc extends BaseBloc with Validators {

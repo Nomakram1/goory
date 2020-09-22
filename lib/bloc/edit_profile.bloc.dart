@@ -3,10 +3,10 @@ import 'dart:io';
 import 'package:file_picker/file_picker.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/validation_messages.dart';
-import 'package:foodie/data/repositories/auth.repository.dart';
-import 'package:foodie/utils/validators.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/validation_messages.dart';
+import 'package:Doory/data/repositories/auth.repository.dart';
+import 'package:Doory/utils/validators.dart';
 import 'package:rxdart/rxdart.dart';
 
 class EditProfileBloc extends BaseBloc {

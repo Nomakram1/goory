@@ -1,7 +1,7 @@
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/strings/search.strings.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/data/repositories/vendor.repository.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/strings/search.strings.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/data/repositories/vendor.repository.dart';
 import 'package:rxdart/rxdart.dart';
 
 class SearchVendorsBloc extends BaseBloc {

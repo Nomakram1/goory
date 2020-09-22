@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/categories.bloc.dart';
-import 'package:foodie/bloc/vendors.bloc.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/data/models/category.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/appbar/home_appbar.dart';
-import 'package:foodie/widgets/buttons/category_button.dart';
-import 'package:foodie/widgets/vendors/horizontal_vendor_item_view.dart';
-import 'package:foodie/widgets/shimmers/general_shimmer_list_view_item.dart';
+import 'package:Doory/bloc/categories.bloc.dart';
+import 'package:Doory/bloc/vendors.bloc.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/data/models/category.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/appbar/home_appbar.dart';
+import 'package:Doory/widgets/buttons/category_button.dart';
+import 'package:Doory/widgets/vendors/horizontal_vendor_item_view.dart';
+import 'package:Doory/widgets/shimmers/general_shimmer_list_view_item.dart';
 
 class CategoriesPage extends StatefulWidget {
   CategoriesPage({

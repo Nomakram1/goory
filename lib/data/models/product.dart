@@ -1,8 +1,8 @@
 import 'package:floor/floor.dart';
 import 'package:flutter/foundation.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/food_extra.dart';
-import 'package:foodie/data/models/vendor.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/food_extra.dart';
+import 'package:Doory/data/models/vendor.dart';
 
 @Entity(
   tableName: "products",

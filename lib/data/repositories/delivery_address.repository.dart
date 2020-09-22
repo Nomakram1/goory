@@ -1,12 +1,12 @@
-import 'package:foodie/constants/api.dart';
-import 'package:foodie/constants/strings/profile/delivery_address.strings.dart';
-import 'package:foodie/constants/strings/profile/edit_delivery_address.strings.dart';
-import 'package:foodie/constants/strings/profile/new_delivery_address.strings.dart';
-import 'package:foodie/data/models/api_response.dart';
-import 'package:foodie/data/models/deliver_address.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/services/http.service.dart';
-import 'package:foodie/utils/api_response.utils.dart';
+import 'package:Doory/constants/api.dart';
+import 'package:Doory/constants/strings/profile/delivery_address.strings.dart';
+import 'package:Doory/constants/strings/profile/edit_delivery_address.strings.dart';
+import 'package:Doory/constants/strings/profile/new_delivery_address.strings.dart';
+import 'package:Doory/data/models/api_response.dart';
+import 'package:Doory/data/models/deliver_address.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/services/http.service.dart';
+import 'package:Doory/utils/api_response.utils.dart';
 
 class DeliveryAddressRepository extends HttpService {
   //get vendors from server base on the type

@@ -1,6 +1,6 @@
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/data/models/order.dart';
-import 'package:foodie/data/repositories/order.repository.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/data/models/order.dart';
+import 'package:Doory/data/repositories/order.repository.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 import 'package:rxdart/rxdart.dart';
 

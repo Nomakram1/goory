@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/constants/validation_messages.dart';
-import 'package:foodie/data/repositories/delivery_address.repository.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/constants/validation_messages.dart';
+import 'package:Doory/data/repositories/delivery_address.repository.dart';
 import 'package:google_map_location_picker/google_map_location_picker.dart';
 import 'package:rxdart/rxdart.dart';
 

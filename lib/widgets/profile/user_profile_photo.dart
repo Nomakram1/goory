@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_images.dart';
-import 'package:foodie/constants/app_sizes.dart';
+import 'package:Doory/constants/app_images.dart';
+import 'package:Doory/constants/app_sizes.dart';
 
 class UserProfilePhoto extends StatelessWidget {
   const UserProfilePhoto({

@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/bloc/vendors.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/data/models/deliver_address.dart';
-import 'package:foodie/utils/custom_dialog.dart';
-import 'package:foodie/widgets/deliver_to_bottom_sheet_content.dart';
-import 'package:foodie/widgets/search/search_bar.dart';
-import 'package:foodie/widgets/vendor_filter.dart';
+import 'package:Doory/bloc/vendors.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/data/models/deliver_address.dart';
+import 'package:Doory/utils/custom_dialog.dart';
+import 'package:Doory/widgets/deliver_to_bottom_sheet_content.dart';
+import 'package:Doory/widgets/search/search_bar.dart';
+import 'package:Doory/widgets/vendor_filter.dart';
 
 class HomeAppBar extends StatelessWidget {
   const HomeAppBar({

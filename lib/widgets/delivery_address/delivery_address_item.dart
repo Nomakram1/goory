@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/deliver_address.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/deliver_address.dart';
 
 class DeliveryAddressItem extends StatefulWidget {
   DeliveryAddressItem({

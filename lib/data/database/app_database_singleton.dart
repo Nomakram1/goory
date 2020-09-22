@@ -1,13 +1,13 @@
 import 'dart:async';
 
-import 'package:foodie/data/database/app_database.dart';
+import 'package:Doory/data/database/app_database.dart';
 
 class AppDatabaseSingleton {
   static AppDatabase database;
 
   Future<AppDatabase> prepareDatabase() async {
     if (database != null) return database;
-    database = await $FloorAppDatabase.databaseBuilder('foodie.db').build();
+    database = await $FloorAppDatabase.databaseBuilder('Doory.db').build();
     return database;
   }
 }

@@ -1,20 +1,20 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/views/auth/forgot_password_page.dart';
-import 'package:foodie/views/auth/login_page.dart';
-import 'package:foodie/views/auth/onboarding_page.dart';
-import 'package:foodie/views/auth/register_page.dart';
-import 'package:foodie/views/category_vendors_page.dart';
-import 'package:foodie/views/checkout_page.dart';
-import 'package:foodie/views/delivery%20address/delivery_addresses_page.dart';
-import 'package:foodie/views/delivery%20address/edit_delivery_address_page.dart';
-import 'package:foodie/views/home_page.dart';
-import 'package:foodie/views/delivery%20address/new_delivery_address_page.dart';
-import 'package:foodie/views/profile/change_password_page.dart';
-import 'package:foodie/views/profile/edit_profile_page.dart';
-import 'package:foodie/views/profile/notifications_page.dart';
-import 'package:foodie/views/search_vendors_page.dart';
-import 'package:foodie/views/webview.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/views/auth/forgot_password_page.dart';
+import 'package:Doory/views/auth/login_page.dart';
+import 'package:Doory/views/auth/onboarding_page.dart';
+import 'package:Doory/views/auth/register_page.dart';
+import 'package:Doory/views/category_vendors_page.dart';
+import 'package:Doory/views/checkout_page.dart';
+import 'package:Doory/views/delivery%20address/delivery_addresses_page.dart';
+import 'package:Doory/views/delivery%20address/edit_delivery_address_page.dart';
+import 'package:Doory/views/home_page.dart';
+import 'package:Doory/views/delivery%20address/new_delivery_address_page.dart';
+import 'package:Doory/views/profile/change_password_page.dart';
+import 'package:Doory/views/profile/edit_profile_page.dart';
+import 'package:Doory/views/profile/notifications_page.dart';
+import 'package:Doory/views/search_vendors_page.dart';
+import 'package:Doory/views/webview.dart';
 
 Route<dynamic> generateRoute(RouteSettings settings) {
   switch (settings.name) {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/constants/app_paddings.dart';
+import 'package:Doory/constants/app_paddings.dart';
 
 class MenuItem extends StatefulWidget {
   MenuItem({

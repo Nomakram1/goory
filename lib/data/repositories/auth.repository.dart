@@ -1,16 +1,16 @@
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
-import 'package:foodie/constants/api.dart';
-import 'package:foodie/constants/strings/forgot_password.strings.dart';
-import 'package:foodie/constants/strings/login.strings.dart';
-import 'package:foodie/constants/strings/register.strings.dart';
-import 'package:foodie/constants/strings/update_password.strings.dart';
-import 'package:foodie/constants/strings/update_profile.strings.dart';
-import 'package:foodie/data/models/api_response.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/data/models/user.dart';
-import 'package:foodie/services/http.service.dart';
-import 'package:foodie/utils/api_response.utils.dart';
+import 'package:Doory/constants/api.dart';
+import 'package:Doory/constants/strings/forgot_password.strings.dart';
+import 'package:Doory/constants/strings/login.strings.dart';
+import 'package:Doory/constants/strings/register.strings.dart';
+import 'package:Doory/constants/strings/update_password.strings.dart';
+import 'package:Doory/constants/strings/update_profile.strings.dart';
+import 'package:Doory/data/models/api_response.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/data/models/user.dart';
+import 'package:Doory/services/http.service.dart';
+import 'package:Doory/utils/api_response.utils.dart';
 import 'package:tellam/tellam.dart';
 
 class AuthRepository extends HttpService {

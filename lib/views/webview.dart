@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
-import 'package:foodie/constants/app_text_styles.dart';
+import 'package:Doory/constants/app_text_styles.dart';
 
 class WebView extends StatefulWidget {
   WebView({

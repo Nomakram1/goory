@@ -1,15 +1,15 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/home/vendors_items.strings.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/views/vendor_page.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/cornered_container.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/home/vendors_items.strings.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/views/vendor_page.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/cornered_container.dart';
 import 'package:rating_bar/rating_bar.dart';
 import 'package:url_launcher/url_launcher.dart';
 

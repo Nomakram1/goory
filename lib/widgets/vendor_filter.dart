@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_xlider/flutter_xlider.dart';
-import 'package:foodie/bloc/vendors.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/sample_data/vendor_filter_data.dart';
-import 'package:foodie/data/models/sort_by.dart';
-import 'package:foodie/utils/custom_dialog.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/filters/sort_by_filter_list_view_item.dart';
+import 'package:Doory/bloc/vendors.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/sample_data/vendor_filter_data.dart';
+import 'package:Doory/data/models/sort_by.dart';
+import 'package:Doory/utils/custom_dialog.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/filters/sort_by_filter_list_view_item.dart';
 
 class VendorFilter extends StatefulWidget {
   VendorFilter({

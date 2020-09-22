@@ -1,5 +1,5 @@
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/sample_data/product_extras.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/sample_data/product_extras.dart';
 
 class Products {
   //all sample products

@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/vendors.bloc.dart';
-import 'package:foodie/bloc/vendors_items.bloc.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/widgets/appbar/home_appbar.dart';
-import 'package:foodie/widgets/listview/list_view_pull_up_footer.dart';
-import 'package:foodie/widgets/product_list_view_item.dart';
-import 'package:foodie/widgets/shimmers/general_shimmer_list_view_item.dart';
-import 'package:foodie/widgets/state/state_loading_data.dart';
-import 'package:foodie/widgets/vendors/vendor_shop_type_list_view.dart';
+import 'package:Doory/bloc/vendors.bloc.dart';
+import 'package:Doory/bloc/vendors_items.bloc.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/widgets/appbar/home_appbar.dart';
+import 'package:Doory/widgets/listview/list_view_pull_up_footer.dart';
+import 'package:Doory/widgets/product_list_view_item.dart';
+import 'package:Doory/widgets/shimmers/general_shimmer_list_view_item.dart';
+import 'package:Doory/widgets/state/state_loading_data.dart';
+import 'package:Doory/widgets/vendors/vendor_shop_type_list_view.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 
 class VendorsOrItemsPage extends StatefulWidget {

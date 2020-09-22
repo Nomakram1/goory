@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/order.strings.dart';
-import 'package:foodie/data/models/order.dart';
-import 'package:foodie/widgets/order/order_item.dart';
-import 'package:foodie/widgets/order/order_product_info.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/order.strings.dart';
+import 'package:Doory/data/models/order.dart';
+import 'package:Doory/widgets/order/order_item.dart';
+import 'package:Doory/widgets/order/order_product_info.dart';
 
 class OrderInfo extends StatelessWidget {
   const OrderInfo({

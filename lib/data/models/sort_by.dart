@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/sample_data/vendor_filter_data.dart';
+import 'package:Doory/sample_data/vendor_filter_data.dart';
 
 class SortBy {
   String name;

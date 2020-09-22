@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_images.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/profile/notification.strings.dart';
+import 'package:Doory/constants/app_images.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/profile/notification.strings.dart';
 
 class EmptyNotification extends StatelessWidget {
   const EmptyNotification({Key key}) : super(key: key);

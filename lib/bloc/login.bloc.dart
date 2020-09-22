@@ -2,14 +2,14 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/strings/login.strings.dart';
-import 'package:foodie/constants/validation_messages.dart';
-import 'package:foodie/data/models/dialog_data.dart';
-import 'package:foodie/data/repositories/auth.repository.dart';
-import 'package:foodie/utils/validators.dart';
-import 'package:foodie/views/auth/facebook_login_webview.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/strings/login.strings.dart';
+import 'package:Doory/constants/validation_messages.dart';
+import 'package:Doory/data/models/dialog_data.dart';
+import 'package:Doory/data/repositories/auth.repository.dart';
+import 'package:Doory/utils/validators.dart';
+import 'package:Doory/views/auth/facebook_login_webview.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:rxdart/rxdart.dart';
 
@@ -19,9 +19,9 @@ class LoginBloc extends BaseBloc {
 
   //text editing controller
   TextEditingController emailAddressTEC =
-      new TextEditingController(text: "client@demo.com");
+      new TextEditingController(text: "");
   TextEditingController passwordTEC =
-      new TextEditingController(text: "password");
+      new TextEditingController(text: "");
 
   //view entered data
   BehaviorSubject<bool> _emailValid = BehaviorSubject<bool>.seeded(false);
@@ -100,7 +100,7 @@ class LoginBloc extends BaseBloc {
   //facebook
   void signinWithFacebook(BuildContext context) async {
     //facebook client id
-    String client_id = "1085409278521772";
+   String client_id = "462256824732409";
     //url to redirect to after successful login
     String redirect_url = "https://www.facebook.com/connect/login_success.html";
     //open the facebook login webview

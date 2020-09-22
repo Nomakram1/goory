@@ -1,14 +1,14 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/food_extra.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/cornered_container.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/food_extra.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/cornered_container.dart';
 
 class ProductExtraListViewItem extends StatefulWidget {
   const ProductExtraListViewItem({

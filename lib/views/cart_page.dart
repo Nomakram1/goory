@@ -1,18 +1,18 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/cart.strings.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/cart/cart_item.dart';
-import 'package:foodie/widgets/cart/total_cart_price.dart';
-import 'package:foodie/widgets/empty/empty_cart.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/cart.strings.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/cart/cart_item.dart';
+import 'package:Doory/widgets/cart/total_cart_price.dart';
+import 'package:Doory/widgets/empty/empty_cart.dart';
 
 class CartPage extends StatefulWidget {
   CartPage({Key key}) : super(key: key);

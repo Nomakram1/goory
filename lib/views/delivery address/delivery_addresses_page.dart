@@ -1,18 +1,18 @@
 import 'package:edge_alert/edge_alert.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/bloc/delivery_addresses.bloc.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/profile/delivery_address.strings.dart';
-import 'package:foodie/data/models/deliver_address.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/appbar/leading_app_bar.dart';
-import 'package:foodie/widgets/delivery_address/delivery_address_item.dart';
-import 'package:foodie/widgets/empty/empty_delivery_address.dart';
-import 'package:foodie/widgets/shimmers/general_shimmer_list_view_item.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/bloc/delivery_addresses.bloc.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/profile/delivery_address.strings.dart';
+import 'package:Doory/data/models/deliver_address.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/appbar/leading_app_bar.dart';
+import 'package:Doory/widgets/delivery_address/delivery_address_item.dart';
+import 'package:Doory/widgets/empty/empty_delivery_address.dart';
+import 'package:Doory/widgets/shimmers/general_shimmer_list_view_item.dart';
 
 class DeliveryAddressesPage extends StatefulWidget {
   DeliveryAddressesPage({Key key}) : super(key: key);

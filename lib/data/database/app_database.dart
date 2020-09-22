@@ -1,18 +1,18 @@
 import 'dart:async';
 import 'package:floor/floor.dart';
-import 'package:foodie/data/database/dao/currency_dao.dart';
-import 'package:foodie/data/database/dao/product_dao.dart';
-import 'package:foodie/data/database/dao/product_extra_dao.dart';
-import 'package:foodie/data/database/dao/notification_dao.dart';
-import 'package:foodie/data/database/dao/user_dao.dart';
-import 'package:foodie/data/database/dao/vendor_dao.dart';
-import 'package:foodie/data/models/currency.dart';
-import 'package:foodie/data/models/notification_model.dart';
-import 'package:foodie/data/models/user.dart';
-import 'package:foodie/data/models/vendor.dart';
+import 'package:Doory/data/database/dao/currency_dao.dart';
+import 'package:Doory/data/database/dao/product_dao.dart';
+import 'package:Doory/data/database/dao/product_extra_dao.dart';
+import 'package:Doory/data/database/dao/notification_dao.dart';
+import 'package:Doory/data/database/dao/user_dao.dart';
+import 'package:Doory/data/database/dao/vendor_dao.dart';
+import 'package:Doory/data/models/currency.dart';
+import 'package:Doory/data/models/notification_model.dart';
+import 'package:Doory/data/models/user.dart';
+import 'package:Doory/data/models/vendor.dart';
 import 'package:sqflite/sqflite.dart' as sqflite;
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/data/models/food_extra.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/data/models/food_extra.dart';
 
 part 'app_database.g.dart'; // the generated code will be there
 

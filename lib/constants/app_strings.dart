@@ -1,5 +1,5 @@
 class AppStrings {
-  static String appName = "Foodie";
+  static String appName = "Doory";
   static String googleApiKey = "AIzaSyATm1Umzz6ruzwRIbNV4uC1iAhoRQFaVCY";
 
   static String searchBarHint = "Search on $appName";

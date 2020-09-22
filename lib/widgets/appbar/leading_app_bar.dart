@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_color.dart';
+import 'package:Doory/constants/app_color.dart';
 
 class LeadingAppBar extends StatelessWidget {
   const LeadingAppBar({

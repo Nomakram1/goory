@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/category.dart';
-import 'package:foodie/utils/ui_spacer.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/category.dart';
+import 'package:Doory/utils/ui_spacer.dart';
 
 class CategoryButton extends StatelessWidget {
   const CategoryButton({

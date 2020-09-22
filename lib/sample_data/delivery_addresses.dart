@@ -1,4 +1,4 @@
-import 'package:foodie/data/models/deliver_address.dart';
+import 'package:Doory/data/models/deliver_address.dart';
 
 class DeliveryAddresses {
   //all sample food options

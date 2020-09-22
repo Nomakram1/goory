@@ -1,10 +1,10 @@
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/data/database/app_database_singleton.dart';
-import 'package:foodie/data/models/notification_model.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/data/database/app_database_singleton.dart';
+import 'package:Doory/data/models/notification_model.dart';
 
 class AppNotification {
   static BuildContext buildContext;

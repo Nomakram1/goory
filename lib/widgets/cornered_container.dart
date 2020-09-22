@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_sizes.dart';
+import 'package:Doory/constants/app_sizes.dart';
 
 class CorneredContainer extends StatelessWidget {
   CorneredContainer({

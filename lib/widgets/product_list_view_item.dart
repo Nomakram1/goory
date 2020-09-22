@@ -1,12 +1,12 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_sizes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/product.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/views/product_page.dart';
-import 'package:foodie/widgets/cornered_container.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_sizes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/product.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/views/product_page.dart';
+import 'package:Doory/widgets/cornered_container.dart';
 
 class ProductListViewItem extends StatelessWidget {
   ProductListViewItem({

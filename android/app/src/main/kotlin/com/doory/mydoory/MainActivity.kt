@@ -1,4 +1,4 @@
-package com.example.foodie
+package com.doory.mydoory
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,17 +1,17 @@
 import 'package:edge_alert/edge_alert.dart';
 import 'package:flutter/material.dart';
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/bloc/forgot_password.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_images.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_strings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/constants/strings/forgot_password.strings.dart';
-import 'package:foodie/constants/strings/general.strings.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/inputs/custom_text_form_field.dart';
-import 'package:foodie/widgets/platform/platform_circular_progress_indicator.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/bloc/forgot_password.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_images.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_strings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/constants/strings/forgot_password.strings.dart';
+import 'package:Doory/constants/strings/general.strings.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/inputs/custom_text_form_field.dart';
+import 'package:Doory/widgets/platform/platform_circular_progress_indicator.dart';
 
 class ForgotPasswordPage extends StatefulWidget {
   ForgotPasswordPage({Key key}) : super(key: key);

@@ -1,6 +1,6 @@
-import 'package:foodie/bloc/base.bloc.dart';
-import 'package:foodie/data/models/user.dart';
-import 'package:foodie/data/repositories/auth.repository.dart';
+import 'package:Doory/bloc/base.bloc.dart';
+import 'package:Doory/data/models/user.dart';
+import 'package:Doory/data/repositories/auth.repository.dart';
 import 'package:rxdart/rxdart.dart';
 
 class ProfileBloc extends BaseBloc {

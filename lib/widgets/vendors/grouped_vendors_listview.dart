@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/shimmers/vendor_shimmer_list_view_item.dart';
-import 'package:foodie/widgets/vendors/vendor_item_view.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/shimmers/vendor_shimmer_list_view_item.dart';
+import 'package:Doory/widgets/vendors/vendor_item_view.dart';
 
 class GroupedVendorsListView extends StatelessWidget {
   const GroupedVendorsListView({

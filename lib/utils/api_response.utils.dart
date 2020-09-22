@@ -1,4 +1,4 @@
-import 'package:foodie/data/models/api_response.dart';
+import 'package:Doory/data/models/api_response.dart';
 
 class ApiResponseUtils {
   static ApiResponse parseApiResponse(dynamic response) {

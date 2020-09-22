@@ -1,5 +1,5 @@
-import 'package:foodie/data/models/vendor.dart';
-import 'package:foodie/sample_data/menus.dart';
+import 'package:Doory/data/models/vendor.dart';
+import 'package:Doory/sample_data/menus.dart';
 import 'package:random_string/random_string.dart';
 
 class Vendors {

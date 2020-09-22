@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_paddings.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/state_data_model.dart';
-import 'package:foodie/utils/ui_spacer.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
+import 'package:Doory/constants/app_paddings.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/state_data_model.dart';
+import 'package:Doory/utils/ui_spacer.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
 
 class LoadingStateDataView extends StatefulWidget {
   final StateDataModel stateDataModel;

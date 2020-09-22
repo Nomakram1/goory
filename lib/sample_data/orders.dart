@@ -1,4 +1,4 @@
-import 'package:foodie/data/models/order.dart';
+import 'package:Doory/data/models/order.dart';
 import 'package:random_string/random_string.dart';
 
 class Orders {

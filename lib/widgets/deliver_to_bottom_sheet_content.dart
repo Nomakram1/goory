@@ -1,17 +1,17 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:foodie/bloc/delivery_addresses.bloc.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/app_text_styles.dart';
-import 'package:foodie/data/models/deliver_address.dart';
-import 'package:foodie/sample_data/delivery_addresses.dart';
-import 'package:foodie/utils/custom_dialog.dart';
-import 'package:foodie/widgets/buttons/custom_button.dart';
-import 'package:foodie/widgets/delivery_address/delivery_address_item.dart';
-import 'package:foodie/widgets/empty/empty_delivery_address.dart';
-import 'package:foodie/widgets/shimmers/general_shimmer_list_view_item.dart';
+import 'package:Doory/bloc/delivery_addresses.bloc.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/app_text_styles.dart';
+import 'package:Doory/data/models/deliver_address.dart';
+import 'package:Doory/sample_data/delivery_addresses.dart';
+import 'package:Doory/utils/custom_dialog.dart';
+import 'package:Doory/widgets/buttons/custom_button.dart';
+import 'package:Doory/widgets/delivery_address/delivery_address_item.dart';
+import 'package:Doory/widgets/empty/empty_delivery_address.dart';
+import 'package:Doory/widgets/shimmers/general_shimmer_list_view_item.dart';
 
 class DeliverTo extends StatefulWidget {
   DeliverTo({

@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:foodie/data/models/food_extra.dart';
+import 'package:Doory/data/models/food_extra.dart';
 
 class FoodExtras {
   //all sample food options

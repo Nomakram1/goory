@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:foodie/constants/app_animations.dart';
-import 'package:foodie/constants/app_color.dart';
-import 'package:foodie/constants/app_routes.dart';
-import 'package:foodie/constants/strings/onboarding.strings.dart';
-import 'package:foodie/widgets/cool_onboarding.dart';
-import 'package:foodie/widgets/onboarding_slide.dart';
+import 'package:Doory/constants/app_animations.dart';
+import 'package:Doory/constants/app_color.dart';
+import 'package:Doory/constants/app_routes.dart';
+import 'package:Doory/constants/strings/onboarding.strings.dart';
+import 'package:Doory/widgets/cool_onboarding.dart';
+import 'package:Doory/widgets/onboarding_slide.dart';
 
 class OnboardingPage extends StatefulWidget {
   OnboardingPage({

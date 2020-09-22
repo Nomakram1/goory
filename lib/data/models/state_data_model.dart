@@ -1,5 +1,5 @@
 import 'package:flutter/rendering.dart';
-import 'package:foodie/constants/app_images.dart';
+import 'package:Doory/constants/app_images.dart';
 
 class StateDataModel {
   String imageAssetPath;
